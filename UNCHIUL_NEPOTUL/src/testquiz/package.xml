@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>testquiz</name>
+  <version>1.0.0</version>
+  <description>Wall avoidance quiz</description>
+  <maintainer email="unchiul_nepotul@todo.todo">UNCHIUL_NEPOTUL</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>rospy</depend>
+  <depend>geometry_msgs</depend>
+  <depend>sensor_msgs</depend>
+  <export/>
+</package>
